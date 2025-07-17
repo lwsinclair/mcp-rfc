@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mjpitz-mcp-rfc-badge.png)](https://mseep.ai/app/mjpitz-mcp-rfc)
+
 # RFC MCP Server
 
 An MCP server for fetching, parsing, and reading RFCs from the ietf.org website. This server provides tools and resources to interact with RFC documents programmatically.
